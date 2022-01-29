@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![ozturk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozturk9976&show_icons=true&theme=vue&border_radius=20&hide_border)](https://github.com/ozturk9976/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturk9976&theme=vue&border_radius=20&card_width=600&hide_border)](https://github.com/anuraghazra/github-readme-stats)
+[![ozturk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozturk9976&show_icons=true&theme=vue&border_radius=20&hide_border=true)](https://github.com/ozturk9976/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturk9976&theme=vue&border_radius=20&card_width=600&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
