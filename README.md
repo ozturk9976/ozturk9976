@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturk9976)](https://github.com/ozturk9976/github-readme-stats)
-[![ozturk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ozturk9976)](https://github.com/ozturk9976/github-readme-stats)
 
 
 <!--
