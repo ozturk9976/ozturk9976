@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![ozturk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozturk9976&show_icons=true&theme=swift)](https://github.com/ozturk9976/github-readme-stats)
+[![ozturk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozturk9976&show_icons=true&theme=swift&title_color=A300FF)](https://github.com/ozturk9976/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturk9976&title_color=A300FF)](https://github.com/anuraghazra/github-readme-stats)
 
 
