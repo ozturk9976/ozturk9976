@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturk9976&theme=midnight-purple&border_radius=20&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturk9976&theme=swift&border_radius=20&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
