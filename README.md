@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturk9976&layout=compact)](https://github.com/ozturk9976/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturk9976)](https://github.com/ozturk9976/github-readme-stats)
+[![ozturk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ozturk9976)](https://github.com/ozturk9976/github-readme-stats)
+
 
 <!--
 **ozturk9976/ozturk9976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
