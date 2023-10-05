@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m experienced on
--*C#
--*Unity
+- *C#
+- *Unity
 -  -Project Management
 -  -New Input System
 -  -Mobile Touch Implementations
