@@ -2,8 +2,8 @@
 ### 🔭 I’m experienced on
 *C#
 *Unity
-  -Project Management
-  -New Input System
+-  -Project Management
+-  -New Input System
   -Mobile Touch Implementations
   -Mobile Optimizations
   -Basic Animations
