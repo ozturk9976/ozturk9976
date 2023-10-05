@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My itch.io : https://dev-00.itch.io/
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturk9976&theme=vue&border_radius=20&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
 
 
