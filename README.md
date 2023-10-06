@@ -2,7 +2,6 @@
 ### 🔭 I’m experienced on
 - ### C#
 - ### UNITY
--  -Project Management
 -  -New Input System
 -  -Mobile Touch Implementations
 -  -Mobile Optimizations
