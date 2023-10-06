@@ -7,7 +7,7 @@
 -  -Mobile Touch Implementations
 -  -Mobile Optimizations
 -  -Basic Animations
--  -Memory Management with addressables
+-  -Memory Management
 -  -Asynchronous programming
 -  -Object Pooling
 -  -Animation Libraries like; "Dotween-Feel"
