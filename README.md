@@ -1,19 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m experienced on
-- ### C#
-- ### UNITY
--  -New Input System
--  -Mobile Touch Implementations
--  -Mobile Optimizations
--  -Basic Animations
--  -Memory Management
--  -Asynchronous programming
--  -Object Pooling
--  -Animation Libraries like; "Dotween-Feel"
--  -UI Animations
--  -HDRP,URP Render Pipelines
 
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturk9976&theme=vue&border_radius=20&card_width=900)](https://github.com/anuraghazra/github-readme-stats)
 
 
